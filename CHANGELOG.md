@@ -4,8 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## unreleased
-- fixed some typeos in the README.md file
+## 2019-12-17
+- This module is declared `deprecated` and replaced by `Text::Utils`.
 
 ## [v0.1.4] - 2017-03-06
 - changed 'create-md.p6' to use a hard-code script name instead of
